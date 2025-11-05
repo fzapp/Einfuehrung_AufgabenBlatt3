@@ -6,7 +6,12 @@ public class P3_main {
 		// TODO Auto-generated method stub
 		int i = -23;
 		
+		if( i > 0) {
 		System.out.println(-i); //Aufgabe 1
+		}
+		else {
+			System.out.println(i);
+		}
 		
 		System.out.println(i*i); //Aufgabe 2
 		

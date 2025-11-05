@@ -25,6 +25,7 @@ public class P2_main {
 		if(a+b>=c) {//E3
 			d++;
 		}
+		
 		if(a+b+c>=100) {//E4
 			d++;
 		}
